@@ -15,12 +15,6 @@ We're using :
 * Good (plugins) for Logging
 * Have it your way...
 
-## Motivation
-
-There's no special motivation. Its because I was asked to test the Hapi Node Framework for a Project so I created this sample.
-
-![Picture](https://raw.githubusercontent.com/codetrash/hapi-project/master/public/images/hapi-project.png)
-
 ## Code Snippets
 
 Running Server
